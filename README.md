@@ -60,35 +60,25 @@ A Streamlit web app using **MobileNetV3 + OpenCV** for real-time deepfake detect
 
 ---
 
-### 🎮 Stick-Man Jump Game — ASCII Edition
+### 🎮 Come try this Stick-Man Jump Game 
+# Hi, I'm Aiswarya Josy 👩‍💻  
+### AI & Data Science | Creative Coder | Analytical Thinker
 
-Start on the left and jump to avoid the rising platform:
-
-```
-|‾‾‾|
-|   |       O
-|   |      /|\
-|   |       |
-|___|     _/ \
-─────┐
-     |
-     |
-     |    O
-     |   /|\
-     |    |
-─────|   / \
-     | Jump!
-```
-
-**Game rules (manually "play"):**  
-1. Pretend each frame moves right.  
-2. When `─────┐` approaches your stick-man, move him up two lines (jump).  
-3. If you're above the line, you "clear" the platform—great job!  
-4. Repeat to keep safe from rising obstacles.
-
-You can copy-paste and animate by stepping frames downward in your head 🎮
+![Banner](https://media.giphy.com/media/xTiTncVep2khPGhK6M/giphy.gif)
 
 ---
+
+## 🎮 Play My Game – Stickman Jump Challenge
+
+A fun little jumping stickman game built with 💻 HTML5 + JS and deployed with GitHub Pages.
+
+[![Play Game](https://img.shields.io/badge/PLAY--NOW-Stickman%20Game-BC6FF1?style=for-the-badge&logo=github&logoColor=white)](https://aiswaryajosy.github.io/stickman_game/)
+
+---
+
+> 🌟 Built with passion. Click the button above to play!
+
+
 
 ### 🔗 Connect with Me
 
