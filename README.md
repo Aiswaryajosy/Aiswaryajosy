@@ -60,17 +60,10 @@ A Streamlit web app using **MobileNetV3 + OpenCV** for real-time deepfake detect
 
 ---
 
-### 🎮 Come try this Stick-Man Jump Game 
-# Hi, I'm Aiswarya Josy 👩‍💻  
-### AI & Data Science | Creative Coder | Analytical Thinker
 
-![Banner](https://media.giphy.com/media/xTiTncVep2khPGhK6M/giphy.gif)
+## 🎮 Play My Game – Save Me From Rats
 
----
-
-## 🎮 Play My Game – Stickman Jump Challenge
-
-A fun little jumping stickman game built with 💻 HTML5 + JS and deployed with GitHub Pages.
+A fun little jumping game built with 💻 HTML, CSS, JavaScript and deployed with GitHub Pages.
 
 [![Play Game](https://img.shields.io/badge/PLAY--NOW-Stickman%20Game-BC6FF1?style=for-the-badge&logo=github&logoColor=white)](https://aiswaryajosy.github.io/stickman_game/)
 
