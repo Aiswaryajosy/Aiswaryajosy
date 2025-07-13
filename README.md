@@ -3,10 +3,6 @@
 <h1 align="center" style="color:#bc6ff1;">Hi, I'm Aiswarya Josy</h1>
 <h3 align="center">Artificial Intelligence & Data Science | Creative Coder | Analytical Thinker</h3>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3o6gbbuLW76jkt8vIc/giphy.gif" width="600" alt="Animated coding banner">
-</p>
-
 ---
 
 ### 🧠 About Me
