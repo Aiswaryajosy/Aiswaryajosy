@@ -14,17 +14,16 @@
 
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="160" />
 
-I am a **Final Year B.Tech student in Artificial Intelligence & Data Science** with a minor in **Robotics**. I am passionate about building well-crafted solutions by combining AI and Machine Learning concepts.
+I am a **B.Tech Graduate in Artificial Intelligence & Data Science** with a minor in **Robotics**. I am passionate about building well-crafted solutions by combining AI and Machine Learning concepts.
 
-- 🔭 **Currently Working On:** **DeepReveal**, an AI-powered content forensics tool.
 - 🎨 **Creative Side:** I lead design initiatives at **CSI SJCET** and love blending technology with purpose.
 - 🚀 **Goal:** Looking for a role to contribute to impactful projects aligning technology with real-world applications.
 
 ---
 
-### 🔬 Project Spotlight: DeepReveal (Ongoing)
+### 🔬 Project Spotlight: DeepReveal
 
-**AI Content Detection & Forensics System** *Developing a robust tool for detecting manipulated image regions.*
+**AI Content Detection & Forensics System** *Developed a robust tool for detecting manipulated image regions.*
 
 * **Core Tech:** U-Net, EfficientNet-B5
 * **Function:** Detects image manipulation and deepfakes using advanced segmentation and classification.
@@ -37,7 +36,7 @@ I am a **Final Year B.Tech student in Artificial Intelligence & Data Science** w
 | 🕵️‍♀️ **AI Forensics** | 🧠 **Reinforcement Learning** | 🛡️ **Web Security** |
 |:---:|:---:|:---:|
 | **DeepReveal** | **MazeMind** | **Deepfake Detection App** |
-| *(Ongoing)* | *Dynamic AI Simulation* | *Web Application* |
+| *Pixel-wise Detection* | *Dynamic AI Simulation* | *Web Application* |
 | An AI forensics tool using **U-Net** and **EfficientNet-B5** to detect manipulated image regions. | An adaptive maze game using **Q-learning** and **A*** algorithms for dynamic pathfinding. | A deployed web app using **MobileNet V3** to detect deepfake images with high accuracy. |
 | **Current Focus** | [**View Repo »**](https://github.com/aiswaryajosy/MazeMind-2D) | [**View Repo »**](https://github.com/aiswaryajosy/deepfake-detector) |
 
