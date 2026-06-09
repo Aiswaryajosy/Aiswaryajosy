@@ -37,7 +37,7 @@ I am a **B.Tech Graduate in Artificial Intelligence & Data Science** with a mino
 |:---:|:---:|:---:|
 | **DeepReveal** | **MazeMind** | **Deepfake Detection App** |
 | *Pixel-wise Detection* | *Dynamic AI Simulation* | *Web Application* |
-| An AI forensics tool using **U-Net** and **EfficientNet-B5** to detect manipulated image regions. | An adaptive maze game using **Q-learning** and **A*** algorithms for dynamic pathfinding. | A deployed web app using **MobileNet V3** to detect deepfake images with high accuracy. |
+| An AI forensics tool using **U-Net** to detect manipulated image regions. | An adaptive maze game using **Q-learning** and **A*** algorithms for dynamic pathfinding. | A deployed web app using **MobileNet V3** to detect deepfake images with high accuracy. |
 | [**View Repo »**](https://github.com/Aiswaryajosy/DeepReveal) | [**View Repo »**](https://github.com/aiswaryajosy/MazeMind-2D) | [**View Repo »**](https://github.com/aiswaryajosy/deepfake-detector) |
 
 ---
